@@ -1,4 +1,5 @@
-let highestZ = 1;
+
+letlet highestZ = 1;
 
 class Paper {
   holdingPaper = false;
